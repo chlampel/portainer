@@ -1,9 +1,9 @@
 # portainer
 Application Templates for Portainer-CE
 
-selection-0..
-selection-1  
-selection-2  
+selection-0<br>
+selection-1<br>
+selection-2<br>
 
 ## Sources
 This repository merges templates from:
