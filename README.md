@@ -1,4 +1,4 @@
-# portainer
+# portainer-templates
 Application Templates for Portainer-CE
 
 selection-1<br>
